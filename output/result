@@ -1,0 +1,4 @@
+{"flight": {"flight": "BA551", "callsign": "BAW551", "model": "Airbus A320-232", "tail": "G-EUUY", "touchdown_time": 1738228685}, "matched_weather": {"ts": "2025-01-30T09:18:05Z", "report": "3-17kt@311, v24km, 3C, clear"}}
+{"flight": {"flight": "BA307", "callsign": "BAW37W", "model": "Airbus A320-251N", "tail": "G-TTNG", "touchdown_time": 1738228695}, "matched_weather": {"ts": "2025-01-30T09:18:15Z", "report": "3-14kt@309, v24km, 3C, light(61)"}}
+{"flight": {"flight": "BA551", "callsign": "BAW551", "model": "Airbus A320-232", "tail": "G-EUUY", "touchdown_time": 1738228685}, "matched_weather": {"ts": "2025-01-30T09:18:05Z", "report": "3-17kt@311, v24km, 3C, clear"}}
+{"flight": {"flight": "BA307", "callsign": "BAW37W", "model": "Airbus A320-251N", "tail": "G-TTNG", "touchdown_time": 1738228695}, "matched_weather": {"ts": "2025-01-30T09:18:15Z", "report": "3-14kt@309, v24km, 3C, light(61)"}}
