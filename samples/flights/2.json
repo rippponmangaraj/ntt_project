@@ -1,0 +1,9 @@
+{
+  "landing": {
+    "flight": "BA307",
+    "callsign":"BAW37W",
+    "model": "Airbus A320-251N",
+    "tail": "G-TTNG",
+    "touchdown_time": 1738228695
+  }
+}
