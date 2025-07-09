@@ -1,0 +1,29 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://nttdata.co.uk/interview.dni.interview.dataproducts.flight",
+    "title": "Flights",
+    "description": "An update about a flight",
+    "type": "object",
+    "properties": {
+      "landing": {
+        "type": "object",
+        "properties": {
+          "flight": {
+            "type": "string"
+          },
+          "callsign": {
+            "type": "string"
+          },
+          "model": {
+            "type": "string"
+          },
+          "tail": {
+            "type": "string"
+          },
+          "touchdown_time": {
+            "type": "number"
+          }
+        }
+      }
+    }
+  }
