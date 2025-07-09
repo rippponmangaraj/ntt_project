@@ -51,7 +51,6 @@ def main():
     flight_stream = env.add_source(flight_consumer)
     weather_stream = env.add_source(weather_consumer)
 
-    # Collect weather in buffer (should use state in production)
     weather_buffer = []
 
     def collect_weather(weather):
