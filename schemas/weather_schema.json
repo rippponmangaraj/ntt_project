@@ -1,0 +1,16 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://nttdata.co.uk/interview.dni.interview.dataproducts.weather",
+    "title": "Weather",
+    "description": "The current weather at heathrow",
+    "type": "object",
+    "properties": {
+      "ts": {
+        "type": "string",
+        "format": "date-time"
+      },
+      "report": {
+        "type": "string"
+      }
+    }
+  }
