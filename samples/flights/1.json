@@ -1,0 +1,9 @@
+{
+  "landing": {
+    "flight": "BA551",
+    "callsign":"BAW551",
+    "model": "Airbus A320-232",
+    "tail": "G-EUUY",
+    "touchdown_time": 1738228685
+  }
+}
