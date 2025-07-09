@@ -3,7 +3,6 @@ import os
 import json
 from kafka import KafkaConsumer
 
-# Add parent directory to sys.path so Python can find config.py and kafka_consumer
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 
 # Import from local modules
